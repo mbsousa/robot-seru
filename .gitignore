@@ -1,0 +1,13 @@
+# Virtual enviroment
+.venv
+
+# Página baixada
+pagina.html
+
+# Token do bot vai ficar aqui
+env
+
+# Arquivos em cache gerados pelo Python 
+
+__pycache__/
+*.pyc
